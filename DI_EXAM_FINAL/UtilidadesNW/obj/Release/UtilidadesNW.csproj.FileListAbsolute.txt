@@ -1,0 +1,6 @@
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\bin\Release\UtilidadesNW.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\bin\Release\UtilidadesNW.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\obj\Release\UtilidadesNW.csproj.AssemblyReference.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\obj\Release\UtilidadesNW.csproj.CoreCompileInputs.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\obj\Release\UtilidadesNW.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\UtilidadesNW\obj\Release\UtilidadesNW.pdb

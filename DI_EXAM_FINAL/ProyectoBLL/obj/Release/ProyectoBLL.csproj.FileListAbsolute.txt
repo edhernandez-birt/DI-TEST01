@@ -1,0 +1,11 @@
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\ProyectoBLL.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\ProyectoBLL.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\AccesoDatos.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\UtilidadesNW.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\AccesoDatos.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\bin\Release\UtilidadesNW.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\obj\Release\ProyectoBLL.csproj.AssemblyReference.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\obj\Release\ProyectoBLL.csproj.CoreCompileInputs.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\obj\Release\ProyectoBLL.csproj.CopyComplete
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\obj\Release\ProyectoBLL.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\ProyectoBLL\obj\Release\ProyectoBLL.pdb

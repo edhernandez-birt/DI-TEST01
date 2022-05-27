@@ -1,0 +1,11 @@
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\System.Data.SqlClient.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\UtilidadesNW.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\UtilidadesNW.pdb
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\bin\Release\System.Data.SqlClient.xml
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\obj\Release\AccesoDatos.csproj.AssemblyReference.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\Usuarios\eduh\Documentos\ULHI\DI\DI_EXAM_FINAL\AccesoDatos\obj\Release\AccesoDatos.pdb
